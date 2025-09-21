@@ -17,20 +17,25 @@ This project explores the dynamics of the second-hand car market, analyzing tren
 
 ## 📈 Visualizations
 ### Year vs. Price
-![car_trend_over_time](second_hand_car_sales/images/Car_trend_over_time.png)  
+![car_trend_over_time](images/Car_trend_over_time.png)  
 
 ### Price vs. Mileage
-![price_vs_mileage](second_hand_car_sales\images\price_vs_mileage.png)  
+![price_vs_mileage](images/price_vs_mileage.png)  
 
 ### Price vs. Engine Size
-![price_vs_enginesize](second_hand_car_sales\images\Prices_vs_enginesize.png)  
+![price_vs_enginesize](images/Prices_vs_enginesize.png)  
 
 ### Price vs. Manufacturer
-![price_vs_manufacturer](second_hand_car_sales\images\Prices_vs_manufacturers.png)  
+![price_vs_manufacturer](images/Prices_vs_manufacturers.png)  
 
 ### Top 10 Most Optimal Cars to Buy
-![optimal_cars](second_hand_car_sales\images\optimal_cars.png)  
+![optimal_cars](images/optimal_cars.png)  
 
+The 2 most optimal cars depending on Price and Mileage :
+| Manufacturer | Model   | Engine size | Fuel type | Year of manufacture | Mileage | Price  |
+|--------------|---------|-------------|-----------|-------------------|---------|--------|
+| Ford         | Fiesta	 | 1.0    | Petrol    | 2012              | 116,953	  | 6486$ |
+| VW       |Golf  | 1.6       | Petrol    | 2011	              | 130,607  | 8410$ |
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
